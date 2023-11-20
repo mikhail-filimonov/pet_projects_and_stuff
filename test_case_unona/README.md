@@ -15,9 +15,11 @@ ___
 3. Написать четыре SQL-запроса разной сложности к двум таблицам базы данных.
 
 
-Итоговое тестовое задание доступно по ссылке: https://docs.google.com/spreadsheets/d/1Mqb9AspFrMUEM3TNvUqkx-NBul0lEddbJzlz-WFJurA/edit?usp=sharing
+Дублирую ссылки на решенные задачи:
 
-Ссылка на решенные SQL-запросы: 
+Документ с заданиями: https://docs.google.com/spreadsheets/d/1Mqb9AspFrMUEM3TNvUqkx-NBul0lEddbJzlz-WFJurA/edit?usp=sharing
+
+SQL-запросы: https://disk.yandex.ru/d/wJR4OSJi5KZckQ
 
 
 ### Комментарии к проекту:
